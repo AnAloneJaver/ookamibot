@@ -1,2 +1,2 @@
 # ookamibot
- SpringBoot+mirai
+ SpringBoot+MiraiBot
